@@ -1,6 +1,6 @@
 - 👋 Olá, meu nome é Flávio Guedes👽
 - 👀 Estou interessado em Linguagem de Programação 🖥️
-- 🌱 Atualmente estou aprendendo Python 🐍
+- 🌱 Trabalhando com freelance em Python 🐍
 - 💞️ Procuro colaborar com a comunidade 👥
 - 📫 Contato: flaviobelico@gmail.com
 - 😄 Pronomes: Caro colega🤓
